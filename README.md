@@ -74,7 +74,7 @@ Aram Choi's Website
 <a href="http://iropke.com">이롭게 에이전시</a>
 ```
 
-- [디자이너에게 영감을 주는 사이트](http://iropke.com/blog/archive)
+- [이롭게문화](http://iropke.com/blog/archives/category/ibrary/cartoon)
 
 ### 인용 구문
 
