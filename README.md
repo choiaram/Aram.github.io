@@ -5,7 +5,7 @@ Aram Choi's Website
 
 # TODO
 - [x] Study Markdown
-- [ ] make index.html 
+- [ ] make 'index.html' 
 
 ## Markdown 사용법
 
@@ -57,6 +57,13 @@ Aram Choi's Website
 1. item1
 1. item2
 1. item3
+
+###이미지
+
+```html
+<img src="http://cfile4.uf.tistory.com/image/264A1334556EC4570F6828" alt="kakaofriends">
+```
+![kakaofriends](http://cfile4.uf.tistory.com/image/264A1334556EC4570F6828)
 
 
 
