@@ -68,6 +68,36 @@ Aram Choi's Website
 ![kakaofriends](http://cfile4.uf.tistory.com/image/264A1334556EC4570F6828)
 ![kakaofriends](images/kakao.png "kakaofrienes")
 
+### 하이퍼링크
+
+```html
+<a href="http://iropke.com">이롭게 에이전시</a>
+```
+
+- [디자이너에게 영감을 주는 사이트](http://iropke.com/blog/archive)
+
+### 인용 구문
+
+인용절은 보통 들여쓰기를 통해 사용자에게 인반 문장과 구분해준다.<br>
+HTML 언어에서는 <blockquote> 요소를 사용하여 인용절으 구조화 한다.
+
+ "Design is All. All is Design."<br>
+ "Learn By Doing"<br>
+ "그것이 최선입니까? 확실해요?"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
