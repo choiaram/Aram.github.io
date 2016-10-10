@@ -61,11 +61,11 @@ Aram Choi's Website
 ###이미지
 
 ```html
-<img src="http://cfile4.uf.tistory.com/image/264A1334556EC4570F6828.jpg" alt="kakaofriends">
+<img src="http://cfile4.uf.tistory.com/image/264A1334556EC4570F6828.jpge" alt="kakaofriends">
 
-<img src="http://cfile4.uf.tistory.com/image/264A1334556EC4570F6828.jpg" alt="kakaofriends" width="298" height="298">
+<img src="http://cfile4.uf.tistory.com/image/264A1334556EC4570F6828.jpge" alt="kakaofriends" width="298" height="298">
 ```
-![kakaofriends](http://cfile4.uf.tistory.com/image/264A1334556EC4570F6828.jpg)
+![kakaofriends](http://cfile4.uf.tistory.com/image/264A1334556EC4570F6828.jpge)
 
 
 
