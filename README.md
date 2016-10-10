@@ -1,6 +1,12 @@
 # Aram.github.io
 Aram Choi's Website
 
+-
+
+# TODO
+- [x] Study Markdown
+- [ ] make index.html 
+
 ## Markdown 사용법
 
 ### 제목
@@ -38,6 +44,7 @@ Aram Choi's Website
 	<li>item2</li>
 	<li>item3</li>
 </ol>
+```
 
 #### 비순차 목록
 
