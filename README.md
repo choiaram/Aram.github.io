@@ -62,9 +62,9 @@ Aram Choi's Website
 
 ```html
 <img src="http://cfile4.uf.tistory.com/image/264A1334556EC4570F6828" alt="kakaofriends">
-
-<img src="http://cfile4.uf.tistory.com/image/264A1334556EC4570F6828" alt="kakaofriends" width="298" height="298">
 ```
+<img src="http://cfile4.uf.tistory.com/image/264A1334556EC4570F6828" alt="kakaofriends" width="298" height="298">
+
 ![kakaofriends](http://cfile4.uf.tistory.com/image/264A1334556EC4570F6828)
 
 
