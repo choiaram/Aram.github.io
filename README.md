@@ -5,7 +5,7 @@ Aram Choi's Website
 
 # TODO
 - [x] Study Markdown
-- [ ] make 'index.html' 
+- [ ] make `index.html`
 
 ## Markdown 사용법
 
